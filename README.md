@@ -14,5 +14,5 @@ Visualization of the Audio Pipeline:
 
 **Key Sources**
 As key resources for processing audio and integrating it with machine learning, the following websites were utilized:
-[Paperspace: Audio Classification with Deep Learning](https://blog.paperspace.com/audio-classification-with-deep-learning/)
-[Kaggle: Z by HP Unlocked Challenge 3 - Signal Processing](https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-3-signal-processing/code)
++ [Paperspace: Audio Classification with Deep Learning](https://blog.paperspace.com/audio-classification-with-deep-learning/)
++ [Kaggle: Z by HP Unlocked Challenge 3 - Signal Processing](https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-3-signal-processing/code)
